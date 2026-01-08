@@ -9,3 +9,4 @@ mysql-connector-python
 lxml-3.4.4-cp34-none-win32.whl
 pytest-allure-adaptor
 robotframework-python3
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
